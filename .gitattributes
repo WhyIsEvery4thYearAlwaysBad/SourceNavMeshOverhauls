@@ -1,0 +1,9 @@
+# Text files
+*.txt text eol=lf
+*.md text eol=lf working-tree-encoding=UTF-8
+## Scripts
+*.cmd text eol=crlf
+*.sh text eol=lf
+.git* text eol=lf
+# Binaries
+*.nav binary

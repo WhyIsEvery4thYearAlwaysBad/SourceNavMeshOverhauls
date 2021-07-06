@@ -130,5 +130,6 @@ tr_dustbowl [ ]
 tr_target [ ]
 
 ===== Community Maps =====
-mvm_yiresa [?]
+mvm_yiresa [✓; I can't get bots to act better without a mod.]
+mvm_estate [ ]
 pl_vigil [✖]

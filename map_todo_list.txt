@@ -132,5 +132,7 @@ tr_target [✓]
 ===== Community Maps =====
 mvm_yiresa [✓; I can't get bots to act better without a mod.]
 mvm_estate [ ]
-pl_sludgepit [✖]
+pl_badwater_pro [✓; Basically badwater nav mesh, but with some changes.]
+pl_sludgepit [✖; Many bugs.]
+pl_stranded [✖]
 pl_vigil [✖]

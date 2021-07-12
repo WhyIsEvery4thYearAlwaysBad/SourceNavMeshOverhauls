@@ -132,7 +132,7 @@ tr_target [✓]
 ===== Community Maps =====
 mvm_tensai [✓; Was barely able to test it, since blue bots didn't appear, but it should still work ok.]
 mvm_estate [ ]
-mvm_yiresa [✓; I can't get bots to act better without a mod.]
+mvm_yiresa [✓?; Having trouble setting up bots on my (the creator) end. It should work though.]
 pl_badwater_pro [✓; Basically badwater nav mesh, but with some changes.]
 pl_sludgepit [✖; Many bugs.]
 pl_stranded [✖]

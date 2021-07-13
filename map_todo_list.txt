@@ -174,7 +174,7 @@ mvm_transmission [ ]
 mvm_winterbridge [ ]
 mvm_wizardry [ ]
 mvm_yiresa [✓?; Having trouble setting up bots on my (the creator) end. It should work though.]
-pl_badwater_pro [✓; Basically badwater nav mesh, but with some changes.]
+pl_badwater_pro [✖; Basically badwater nav mesh, but with some changes. Too lazy to setup tho.]
 pl_barnblitz_pro6
 pl_fifthcurve [✓]
 pl_sludgepit [✖; Many bugs.]

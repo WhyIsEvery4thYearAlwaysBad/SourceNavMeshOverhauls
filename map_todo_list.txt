@@ -143,8 +143,8 @@ koth_clearcut [ ]
 koth_daenam [ ]
 koth_databank [ ]
 koth_harvestalpine [ ]
-koth_product_rcx
-koth_ramjam_rc1
+koth_product_rcx [ ]
+koth_ramjam [ ]
 koth_slaughter [ ]
 koth_spillway [✖]
 koth_synthetic [ ]

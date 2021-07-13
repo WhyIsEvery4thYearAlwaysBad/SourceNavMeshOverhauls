@@ -134,6 +134,7 @@ mvm_tensai [✓; Was barely able to test it, since blue bots didn't appear, but 
 mvm_estate [ ]
 mvm_yiresa [✓?; Having trouble setting up bots on my (the creator) end. It should work though.]
 pl_badwater_pro [✓; Basically badwater nav mesh, but with some changes.]
+pl_fifthcurve [✓]
 pl_sludgepit [✖; Many bugs.]
 pl_stranded [✖]
 pl_vigil [✓; Ran full nav_analyze this time.]

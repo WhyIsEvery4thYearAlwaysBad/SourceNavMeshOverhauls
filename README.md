@@ -2,6 +2,8 @@
 
 A compilation of Source Engine navigation meshes that are improvements over the Source Engine's automatically generated nav meshes and default nav meshes made by Valve.
 
+To convert the nav meshes into VPKs, use the `build_vpk` script. Run the script with no launch options to get the help display.
+
 ## Contributing
 
 You are free to merge additional navigation meshes for other maps. However the nav mesh must be at the path `<root>/src/<game>/<map name without version suffix>/<nav mesh file>`, or `<repo>/src/<game>/community/<map name without version suffix>/<nav mesh file>` if the map is not in the game by default.

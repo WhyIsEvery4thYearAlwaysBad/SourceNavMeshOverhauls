@@ -1,3 +1,15 @@
+= Priority List =
+
+1. pl_sludgepit
+2. pl_barnblitz_pro6
+3. pl_stranded
+4. pl_summercoast
+5. koth maps
+6. cp maps
+7. rest of the mvm maps
+
+= Todo list =
+
 <blank> = Not started.
 ✖ = Unfinished
 ? = Needs testing.
@@ -32,7 +44,7 @@ cp_gravelpit [ ]
 cp_gullywash_final1 [ ]
 cp_junction_final [ ]
 cp_manor_event [ ]
-cp_mercenarypark [ ]
+cp_mercenarypark [✖?; Default nav mesh is *terrible*.]
 cp_metalworks [ ]
 cp_mossrock [ ]
 cp_mountainlab [ ]
@@ -104,7 +116,7 @@ pl_borneo [ ]
 pl_cactuscanyon [ ]
 pl_enclosure_final [ ]
 pl_fifthcurve_event [ ]
-pl_frontier_final [✖]
+pl_frontier_final [✖?]
 pl_goldrush [ ]
 pl_hasslecastle [ ]
 pl_hoodoo_final [ ]
@@ -173,11 +185,11 @@ mvm_tensai [✓; Was barely able to test it, since blue bots didn't appear, but 
 mvm_transmission [ ]
 mvm_winterbridge [ ]
 mvm_wizardry [ ]
-mvm_yiresa [✓?; Having trouble setting up bots on my (the creator) end. It should work though.]
-pl_badwater_pro [✖; Basically badwater nav mesh, but with some changes. Too lazy to setup tho.]
-pl_barnblitz_pro6
+mvm_yiresa [✓?; Having trouble setting up bots on my (the creator's) end. It should work though.]
+pl_badwater_pro [✖; Trying to analyze the mesh just crashes the game.]
+pl_barnblitz_pro6 [ ]
 pl_fifthcurve [✓]
-pl_sludgepit [✖; Many bugs.]
+pl_sludgepit [✓]
 pl_stranded [✖]
 pl_summercoast [ ]
 pl_vigil [✓; Ran full nav_analyze this time.]

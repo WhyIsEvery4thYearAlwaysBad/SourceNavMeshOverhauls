@@ -18,6 +18,8 @@ e.g
 
 The map folder should also have a README that links the nav mesh to the map's main page it is for.
 
+If a specific nav area is modified or an issue is with that area, that area's ID must be shown (via `nav_edit 1`) so that I can locate it. Pictures should be used for clumps of nav areas.
+
 Finally if a map's nav mesh does not need changes, then don't change it's nav mesh.
 
 ## Testing

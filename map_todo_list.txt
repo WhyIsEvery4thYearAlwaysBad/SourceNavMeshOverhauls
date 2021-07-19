@@ -1,12 +1,12 @@
 = Priority List =
 
-1. pl_sludgepit
-2. pl_barnblitz_pro6
-3. pl_stranded
-4. pl_summercoast
-5. koth maps
-6. cp maps
-7. rest of the mvm maps
+(I'll publish the badwater pro nav mesh when I can actually analyze that map.)
+1. pl_barnblitz_pro6
+2. pl_stranded
+3. pl_summercoast
+4. koth maps
+5. cp maps
+6. rest of the mvm maps
 
 = Todo list =
 

@@ -2,11 +2,10 @@
 
 (I'll publish the badwater pro nav mesh when I can actually analyze that map.)
 1. pl_barnblitz_pro6
-2. pl_stranded
-3. pl_summercoast
-4. koth maps
-5. cp maps
-6. rest of the mvm maps
+2. pl_summercoast
+3. koth maps
+4. cp maps
+5. rest of the mvm maps
 
 = Todo list =
 
@@ -190,6 +189,6 @@ pl_badwater_pro [✖; Trying to analyze the mesh just crashes the game.]
 pl_barnblitz_pro6 [ ]
 pl_fifthcurve [✓]
 pl_sludgepit [✓]
-pl_stranded [✖]
+pl_stranded [✖; Need to finish rc6.]
 pl_summercoast [ ]
 pl_vigil [✓; Ran full nav_analyze this time.]

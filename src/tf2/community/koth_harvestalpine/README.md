@@ -2,4 +2,4 @@
 
 ## Changelog
 
-* Added initial nav mesh. ([91fe208c](https://github.com/WhyIsEvery4thYearAlwaysBad/SourceNavMeshOverhauls/commit/91fe208c970eccceb7efc07e55c508f4a3737135))
+* Added initial nav mesh. ([91fe208c](https://github.com/WhyIsEvery4thYearAlwaysBad/SourceNavMeshOverhauls/commit/9fddc85aa04f069703e5fdf2acd2124671309eb2))

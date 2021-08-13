@@ -141,7 +141,7 @@ tr_target [✓]
 
 ===== Community Maps =====
 cp_fulgur [ ]
-cp_glassworks [ ]
+cp_glassworks [✓]
 cp_gullywash [ ]
 cp_kalinka [ ]
 cp_process [ ]

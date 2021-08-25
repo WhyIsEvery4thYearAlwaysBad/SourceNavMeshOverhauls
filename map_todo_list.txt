@@ -1,10 +1,9 @@
 = Priority List =
 
 (I'll publish the badwater pro nav mesh when I can actually analyze that map.)
-1. pl_barnblitz_pro6
-2. koth maps
+1. pl_barnblitz_pro6 (ignore for now)
+2. koth_bagel
 3. cp maps
-4. rest of the mvm maps
 
 = Todo list =
 
@@ -146,7 +145,8 @@ cp_gullywash [ ]
 cp_kalinka [ ]
 cp_process [ ]
 ctf_turbine_pro [ ]
-koth_ashville [ ]
+koth_arctic [✓]
+koth_ashville [✓]
 koth_bagel [ ]
 koth_cascade [ ]
 koth_clearcut [ ]
@@ -191,3 +191,4 @@ pl_sludgepit [✓]
 pl_stranded [✓]
 pl_summercoast [✓]
 pl_vigil [✓; Ran full nav_analyze this time.]
+vsh_nebula [✓]

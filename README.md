@@ -2,13 +2,15 @@
 
 A compilation of Source Engine navigation meshes that are improvements over the Source Engine's automatically generated nav meshes and default nav meshes made by Valve.
 
-To convert the nav meshes into VPKs, use the `build_vpk` script. Run the script with no launch options to get the help display.
+To make a VPK with these nav meshes, use the `build_vpk` script. Run the script with no launch options to get the help display.
+
+You are free to use my nav meshes in anyway you want, **so long as you credit me**.
 
 ## Contributing
 
 You are free to merge additional navigation meshes for other maps. However the nav mesh must be at the path `<root>/src/<game>/<map name without version suffix>/<nav mesh file>`, or `<repo>/src/<game>/community/<map name without version suffix>/<nav mesh file>` if the map is not in the game by default.
 
-* A version suffix is a string that indicates the version of the map. It's typically at the end of the map name. (e.g koth\_spillway*_rc3a* or pl\_abandoned\_upward*_finalfix*)
+* A version suffix is a string that indicates the version of the map. It's typically at the end of the map name. (e.g koth\_spillway*\_rc3a* or pl\_abandoned\_upward*\_finalfix*)
 
 e.g
 

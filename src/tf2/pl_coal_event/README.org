@@ -1,0 +1,7 @@
+#+title: pl_coal_event
+
+* Progress 
+
+1. [ ] Incorporate air strafes into the nav mesh.
+
+* Bugs

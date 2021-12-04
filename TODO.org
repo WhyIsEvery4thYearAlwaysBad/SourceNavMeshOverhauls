@@ -1,0 +1,33 @@
+#+title: Nav Mesh
+#+author: Amicdict
+
+TODO for each nav mesh.
+
+#+begin_src
+printf("%s\n", "Hello world!");
+#+end_src
+
+* TF2
+
+
+cp_mercenary_park
+
+1. [ ] Work on the mesh layout til it's good enough.
+2. [ ] Account for areas that are not automatically included in the mesh.
+3. [ ] Add nav areas for air strafes.
+
+pl_bloodwater
+
+1. [ ] Make nav mesh.
+
+pl_coal_event
+
+1. [ ] Make nav mesh layout.
+
+pl_fifthcurve_event
+
+1. [ ] Make general nav mesh layout.
+   [ ]
+2. [ ] Fine tune the mesh.
+3. [ ] Connect portals to the map mesh.
+

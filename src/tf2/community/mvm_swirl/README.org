@@ -1,0 +1,7 @@
+#+title: [[https://tf2maps.net/threads/mvm_swirl.40781/][mvm_swirl]]
+
++ Not much 
+
+* Notes
+
++ This nav mesh has suspended navigation areas to allow bots to airstrafe.
